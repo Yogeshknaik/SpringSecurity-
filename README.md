@@ -1,2 +1,2 @@
 # SpringSecurity-
-i simple spring security app
+a simple spring security app
